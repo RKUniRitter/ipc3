@@ -18,6 +18,7 @@ public class Main {
 			System.out.println(e);
 		}
 
+		//Imprime resultado da contagem
 		System.out.println("Count: " +Shared.count);
 
 	}
